@@ -1,2 +1,2 @@
 # biohazard
-an app for a project
+a first-aid app for a project-
