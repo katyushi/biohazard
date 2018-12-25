@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Primeiros Socorros</string>
+    <string name="textview">O que Fazer em Caso de:</string>
+    <string name="o_que_fazer_em_caso_de">O que Fazer em Caso de:</string>
 </resources>
