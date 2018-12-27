@@ -21,4 +21,71 @@
     <string name="LabelTopic6">Marxismo</string>
     <string name="LabelTopic7">Socialismo</string>
     <string name="LabelTopic8">Comunismo</string>
+    <string name="Large_Text1"> "Se você testemunhar uma convulsão,tente manter a"" calma e antes de qualquer coisa chame um serviço de"
+        "emergência. Preste muita atenção para o que acontece ""durante e após a crise.\n\n"
+
+"Durante uma convulsão:\n\n"
+
+"Proteja a pessoa de uma lesão"
+"Tentar repousar a pessoa suavemente no chão"
+        ", caso ela dê sinais de que irá cair"
+"Tente afastar os móveis ou outros objetos que"
+        "possam ferir a pessoa durante a convulsão"
+"Se a pessoa que está tendo uma convulsão já"
+        "está no chão quando você chegar, coloque algo macio sob sua cabeça"
+"Não force nada, incluindo os dedos, na boca da pessoa."
+        " Colocar algo na boca da pessoa pode causar ferimentos a ele ou ela,"
+        "como dentes lascados ou uma mandíbula fraturada. Você também poderia ser mordido"
+"Vire a pessoa para o seu lado, com a boca para baixo, a menos que a pessoa resista a ser movida"
+"Não tente soltar ou chacoalhar a pessoa"
+"Se a pessoa vomitar, vire a pessoa para o lado."
+"Preste muita atenção ao que a pessoa"" está fazendo para que você possa descrever"" a convulsão para o resgate ou médico:\n\n"
+
+"Que tipo de movimento do corpo ocorreu?"
+"Quanto tempo durou a convulsão?"
+"Como a pessoa agiu imediatamente após o ataque?"
+"Existem lesões?\n\n"</string>
+    <string name="Large_Text2">
+        "Um kit básico de primeiros socorros pode conter:\n\n"
+
+"1- emplastros em uma variedade de tamanhos e formas diferentes "
+"2- pensos de gaze estéril pequena, média e grande "
+"3- pelo menos 2 curativos para olhos estéreis "
+"4- bandagens triangulares "
+"5- rolos de bandagens "
+"6- alfinetes de segurança "
+"7- luvas estéreis descartáveis "
+"8- pinças "
+"9- tesouras "
+"10- toalhetes de limpeza sem álcool "
+"11- fita adesiva "
+"12- termômetro (de preferência digital) "
+"13- creme de erupção cutânea, como hidrocortisona ou calêndula "
+"14- creme ou spray para aliviar picadas de insetos e picadas "
+"15- creme antisséptico "
+"16- analgésicos como o paracetamol (ou paracetamol infantil para crianças), aspirina (que não deve ser administrada a crianças com menos de 16 anos) ou ibuprofeno "
+"17- remédio para tosse "
+"18- creme anti-histamínico ou comprimidos "
+"19- água destilada para limpeza de feridas "
+"20- lavagem ocular e banho ocular\n\n "
+        "Também pode ser útil manter um manual básico de primeiros socorros ou um manual de instruções com o kit de primeiros socorros.\n\n "
+        "Os medicamentos devem ser verificados regularmente para garantir que estejam dentro das datas de uso.\n\n "
+    </string>
+    <string name="Large_Text3">
+"Confira o corte. Caso seja possível observar gordura, músculos ou ossos,"" você provavelmente precisará de pontos. Cheque"" a situação com um médico caso não tenha certeza."
+"Os sinais de um problema que precisa de atenção médica"" podem incluir quaisquer um dos seguintes itens: dor ""extrema, sangramento e sinais de choque (frio, suor excessivo,"" calafrios ou palidez).
+Para saber se um corte"" atravessou a pele, tente observar a presença de"" gordura (tecido irregular e amarelo), músculos"" (tecido fibroso e vermelho) ou ossos (superfície"" rígida e branca).
+Pontos não são"" necessários caso o corte não atravesse a pele."" Trate a lesão em casa.\n\n"
+    </string>
+    <string name="Large_Text4">"A regra universal para a queimadura por fogo é cessar a fonte das chamas;"" em seguida, use água fria para resfriar a área atingida."
+"Essa é a saída indicada, já que não há nenhum"" medicamento, produto ou receita caseira  ""que diminua as dores provocadas por uma "queimadura ou melhore a lesão."
+"As famosas pomadas, mesmo as disponíveis"" em farmácias, estressam ainda"" mais as células da pele, irritando-a e"" causando infecções.
+Se surgirem bolhas, não"" as estoure de forma alguma: elas são" proteções naturais às queimaduras."" Bolhas são típicas de queimaduras de segundo grau, ""mais profundas, e só devem ser manipuladas por um médico."
+"Evite envolver a lesão com tecidos"" ou algodão: eles podem grudar."
+"Acessórios como relógios, pulseiras, anéis, cordões"" e brincos, por outro lado, devem ser retirados."" Isso porque o corpo humano tende a inchar após sofrer uma queimadura e"" esses objetos podem acabar ficando presos."
+    </string>
+    <string name="Large_TextAbout">
+        "Feito por Hugo Lazzari e\n"
+        "Agatha Cerqueira"
+    </string>
 </resources>
