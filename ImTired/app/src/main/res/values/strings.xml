@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">ImTired</string>
+    <string name="app_name">First Aids</string>
     <string name="whatToDo">Important Topics:</string>
     <string name="textview">Seizures</string>
     <string name="textview1">How To Prepare a basic First Aid Kit</string>
-    <string name="textview2">Simple Cuts</string>
+    <string name="textview2">Cuts</string>
     <string name="textview3">Burns</string>
     <string name="textview4">leninism</string>
-    <string name="textview5">marxism</string>
-    <string name="textview6">socialism</string>
-    <string name="textview7">communism</string>
-    <string name="about">TextView</string>
+    <string name="textview5">Marxism</string>
+    <string name="textview6">Socialism</string>
+    <string name="textview7">Communism</string>
+    <string name="about">About</string>
 </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeiros Socorros</string>
+    <string name="whatToDo">Topicos Importantes</string>
+    <string name="textview">Convulçôes</string>
+    <string name="textview1">Como Preparar um Kit Básico de Primeiros Socorros</string>
+    <string name="textview2">Cortes</string>
+    <string name="textview3">Queimaduras</string>
+    <string name="about">Sobre</string>
+    <string name="textview4">Leninismo</string>
+    <string name="textview5">Marxismo</string>
+    <string name="textview6">Socialismo</string>
+    <string name="textview7">Comunismo</string>
+</resources>
