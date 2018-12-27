@@ -11,4 +11,14 @@
     <string name="textview5">Marxismo</string>
     <string name="textview6">Socialismo</string>
     <string name="textview7">Comunismo</string>
+    <string name="button">Button</string>
+    <string name="LabelTopic1">Convulçôes</string>
+    <string name="LabelAbout">Sobre</string>
+    <string name="LabelTopic2">Como Preparar um Kit Básico de Primeiros Socorros</string>
+    <string name="LabelTopic3">Cortes</string>
+    <string name="LabelTopic4">Queimaduras</string>
+    <string name="LabelTopic5">Leninismo</string>
+    <string name="LabelTopic6">Marxismo</string>
+    <string name="LabelTopic7">Socialismo</string>
+    <string name="LabelTopic8">Comunismo</string>
 </resources>

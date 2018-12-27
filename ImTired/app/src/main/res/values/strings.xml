@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">First Aids</string>
+    <string name="app_name">First Aid</string>
     <string name="whatToDo">Important Topics:</string>
     <string name="textview">Seizures</string>
     <string name="textview1">How To Prepare a basic First Aid Kit</string>
@@ -10,5 +10,14 @@
     <string name="textview6">Socialism</string>
     <string name="textview7">Communism</string>
     <string name="about">About</string>
-    <string name="title_activity_topic5">Topic5Activity</string>
+    <string name="button">Sand</string>
+    <string name="LabelTopic1">Seizures</string>
+    <string name="LabelTopic2">How To Prepare a basic First Aid Kit</string>
+    <string name="LabelTopic3">Cuts</string>
+    <string name="LabelTopic4">Burns</string>
+    <string name="LabelTopic5">leninism</string>
+    <string name="LabelTopic6">Marxism</string>
+    <string name="LabelTopic7">Socialism</string>
+    <string name="LabelTopic8">Communism</string>
+    <string name="LabelAbout">About</string>
 </resources>
