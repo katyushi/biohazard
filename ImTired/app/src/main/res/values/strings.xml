@@ -5,20 +5,18 @@
     <string name="textview1">How To Prepare a basic First Aid Kit</string>
     <string name="textview2">Cuts</string>
     <string name="textview3">Burns</string>
-    <string name="textview4">leninism</string>
-    <string name="textview5">Marxism</string>
-    <string name="textview6">Socialism</string>
-    <string name="textview7">Communism</string>
+    <string name="textview4">Choking</string>
+    <string name="textview5">Fractures</string>
+    <string name="textview6">Internal Bleeding</string>
     <string name="about">About</string>
     <string name="button">Sand</string>
     <string name="LabelTopic1">Seizures</string>
     <string name="LabelTopic2">How To Prepare a basic First Aid Kit</string>
     <string name="LabelTopic3">Cuts</string>
     <string name="LabelTopic4">Burns</string>
-    <string name="LabelTopic5">leninism</string>
-    <string name="LabelTopic6">Marxism</string>
-    <string name="LabelTopic7">Socialism</string>
-    <string name="LabelTopic8">Communism</string>
+    <string name="LabelTopic5">Choking</string>
+    <string name="LabelTopic6">Fractures</string>
+    <string name="LabelTopic7">Internal Bleeding</string>
     <string name="LabelAbout">About</string>
     <string name="Large_Text1">
        "If you witness a seizure, try to keep the"
@@ -114,5 +112,82 @@
     <string name="Large_TextAbout">
         "Made by Hugo Lazzari and\n"
         "Agatha Cerqueira"
+    </string>
+    <string name="Large_text5">
+    "if the person is able to cough forcefully, the person should keep coughing. If the person is"
+    "choking and can't talk, cry or laugh forcefully, the American Red Cross recommends a 'five-"
+    "and-five' approach to delivering first aid\n"
+    "Give 5 back blows. Stand to the side and just behind a choking adult. For a child, kneel "
+    "down behind. Place one arm across the person's chest for support. Bend the person over"
+    "at the waist so that the upper body is parallel with the ground. Deliver five separate back"
+    "blows between the person's shoulder blades with the heel of your hand.\n"
+    "Give 5 abdominal thrusts. Perform five abdominal thrusts (also known as the Heimlich ""maneuver).\n"
+    "Alternate between 5 blows and 5 thrusts until the blockage is dislodged.\n"
+        "The American Heart Association doesn't teach the back blow technique, only the "
+        "abdominal thrust procedures. It's OK not to use back blows if you haven't learned the "
+        "technique. Both approaches are acceptable."
+"To perform abdominal thrusts (Heimlich maneuver) on someone else:"
+"Stand behind the person. Place one foot slightly in front of the other for balance. Wrap"
+        "your arms around the waist. Tip the person forward slightly. If a child is choking, kneel "
+        "down behind the child."
+"Make a fist with one hand. Position it slightly above the person's navel."
+"Grasp the fist with the other hand. Press hard into the abdomen with a quick, upward "
+        "thrust — as if trying to lift the person up."
+"Perform between six and 10 abdominal thrusts until the blockage is dislodged."
+    </string>
+    <string name="Large_text6">
+        "Don't move the person except if necessary to avoid further injury."
+        "Take these actions immediately while waiting for medical help:\n"
+        "Stop any bleeding. Apply pressure to the wound with a sterile "
+        "bandage, a clean cloth or a clean piece of clothing."
+        "Immobilize the injured area. Don't try to realign the bone or "
+        "push a bone that's sticking out back in. If you've been trained "
+        "in how to splint and professional help isn't readily available, "
+        "apply a splint to the area above and below the fracture sites. "
+        "Padding the splints can help reduce discomfort."
+        "Apply ice packs to limit swelling and help relieve pain."
+        "Don't apply ice directly to the skin. Wrap the ice in a towel, "
+        "piece of cloth or some other material."
+        "Treat for shock. If the person feels faint or is breathing in "
+        "short, rapid breaths, lay the person down with the head slightly "
+        "lower than the trunk and, if possible, elevate the legs."
+
+    </string>
+    <string name="Large_text7">
+        "1. Internal Bleeding\n"
+"- Internal bleeding should always be suspected when blood is not seen to flow but the victim has one or more of the following signs and symptoms.\n"
+"Signals and symptons:\n"
+"- Thirst."
+"- Feeling of cold (chills)."
+"- Progressively faster and weaker pulse.\n"
+"In even more serious cases:\n"
+"- Paleness."
+"- Cooling, especially of the ends"
+"- Buzzing."
+"- Change in the state of consciousness.\n"
+"What you should do:\n"
+"- Calm the victim and keep her awake."
+"- Unscrew the clothes."
+"- Keep the victim comfortably warm."
+"- Put it in Safety Lateral Position."
+"It is a serious situation that requires urgent transportation to the hospital.\n"
+"What you should not do:\n"
+"- Give drink or food\n\n"
+"Caution: the rescuer must wear disposable gloves before any procedure."
+
+    </string>
+    <string name="LabelTopic8">External Bleeding</string>
+    <string name="textview7">External Bleeding</string>
+    <string name="Large_text8">
+        "2. External Bleeding\n"
+"What to do:\n"
+"- Lay the victim horizontally."
+"- Apply a sterile dressing on the wound or, if it is not present, a washed cloth, exerting a firm pressure with one or both"
+"hands, with a finger or even with a clean bandage, depending on the location and extent of the injury."
+"If it is saturated with blood, put another on top of it, but without removing the first."
+"- Make the compression last until the bleeding stops (at least 10 minutes)."
+"- If the bleeding stops, apply a compressive dressing over the wound.\n\n"
+"Caution: the rescuer must wear disposable gloves before any procedure."
+
     </string>
 </resources>

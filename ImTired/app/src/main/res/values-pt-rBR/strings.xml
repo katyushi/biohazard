@@ -2,25 +2,23 @@
 <resources>
     <string name="app_name">Primeiros Socorros</string>
     <string name="whatToDo">Topicos Importantes</string>
-    <string name="textview">Convulçôes</string>
+    <string name="textview">Convulções</string>
     <string name="textview1">Como Preparar um Kit Básico de Primeiros Socorros</string>
     <string name="textview2">Cortes</string>
     <string name="textview3">Queimaduras</string>
     <string name="about">Sobre</string>
-    <string name="textview4">Leninismo</string>
-    <string name="textview5">Marxismo</string>
-    <string name="textview6">Socialismo</string>
-    <string name="textview7">Comunismo</string>
+    <string name="textview5">Fraturas</string>
+    <string name="textview6">Hemorragia  Interna</string>
+    <string name="textview7">Hemorragia Externa</string>
     <string name="button">Button</string>
-    <string name="LabelTopic1">Convulçôes</string>
+    <string name="LabelTopic1">Convulções</string>
     <string name="LabelAbout">Sobre</string>
     <string name="LabelTopic2">Como Preparar um Kit Básico de Primeiros Socorros</string>
     <string name="LabelTopic3">Cortes</string>
     <string name="LabelTopic4">Queimaduras</string>
-    <string name="LabelTopic5">Leninismo</string>
-    <string name="LabelTopic6">Marxismo</string>
-    <string name="LabelTopic7">Socialismo</string>
-    <string name="LabelTopic8">Comunismo</string>
+    <string name="LabelTopic5">Asfixia</string>
+    <string name="LabelTopic6">Fraturas</string>
+    <string name="LabelTopic8">Hemorragia Externa</string>
     <string name="Large_Text1"> "Se você testemunhar uma convulsão,tente manter a"" calma e antes de qualquer coisa chame um serviço de"
         "emergência. Preste muita atenção para o que acontece ""durante e após a crise.\n\n"
 
@@ -87,5 +85,76 @@ Se surgirem bolhas, não"" as estoure de forma alguma: elas são" proteções na
     <string name="Large_TextAbout">
         "Feito por Hugo Lazzari e\n"
         "Agatha Cerqueira"
+
+    </string>
+    <string name="Large_text5">
+"A. Numa criança pequena:\n"
+"- Abra-lhe a boca e tente extrair o corpo estranho, se este ainda estiver visível, usando o seu dedo indicador em gancho ou uma pinça (cuidado para não empurrar o objecto!).\n"
+"- Coloque a criança de cabeça para baixo. Sacuda-a e bata-lhe a meio das costas, entre as omoplatas, com a mão aberta.\n\n"
+"B. No jovem/ adulto:\n"
+"- Coloque-se por trás da vítima, passe-lhe o braço à volta da cintura.\n"
+"- Feche o seu punho e coloque-o logo acima do umbigo.\n"
+"- Cubra o punho com a outra mão e carregue para dentro e para cima.\n"
+"- Repita as operações as vezes que forem necessárias.\n"
+"- Se a respiração não se restabelecer e a vítima continuar roxa (cianosada), faça reanimação/ respiração artificial.\n"
+"- Logo que a respiração estiver restabelecida transporte a vítima para o Hospital.\n"
+
+"O que não deve fazer:\n"
+"Abandonar o asfixiado para pedir auxílio."
+    </string>
+    <string name="textview4">Asfixia</string>
+    <string name="Large_text6">
+        "O que deve fazer:\n"
+        "Expor a zona de lesão (desapertar ou se necessário cortar a roupa)."
+        "Verificar se existem ferimentos;"
+        "Tentar imobilizar as articulações que se encontram antes e depois da fractura utilizando talas apropriadas.\n"
+        "Note Bem\n"
+        "As fracturas têm de ser tratadas no Hospital."
+        "As talas devem ser sempre previamente almofadadas e bastante sólidas. Quando improvisadas, podem ser feitas com barras de metal ou varas de madeira."
+        "Se se utilizarem talas insufláveis, que actuam por compressão sobre o membro lesionado por efeito do ar que introduzimos dentro delas, deve-se deixar sair um pouco de ar do seu interior de 15 em 15 minutos para aliviar a pressão que pode dificultar a circulação do sangue.\n"
+        "O que não deve fazer:\n"
+        "Tentar fazer redução da fractura, isto é, tentar ancaixar as extremidades do osso partido."
+        "Provocar apertos ou compressões que dificultem a circulação do sangue."
+        "Procurar, numa fractura exposta, meter para dentro as partes dos ossos que estejam visíveis\n"
+        "Nota\n"
+        "Em caso de suspeita de fractura de costelas, a vítima deve ser deitada em posição confortável evitando movimentos bruscos. Não tente imobilizar."
+        "São situações graves que uma vez a imobilização feita, necessitam transporte urgente para o Hospital."
+    </string>
+    <string name="LabelTopic7">Hemorragia  Interna</string>
+    <string name="Large_text7">
+        "1.Hemorragia Interna\n"
+"- Deve-se suspeitar sempre de hemorragia interna quando não se vê escorrer o sangue mas a vítima apresenta um ou mais dos seguintes sinais e sintomas.\n"
+"Sinais e Sintomas:\n"
+"- Sede."
+"- Sensação de frio (arrepios)."
+"- Pulso progressivamente mais rápido e mais fraco.\n"
+"Em casos ainda mais graves:\n"
+"- Palidez."
+"- Arrefecimento, sobretudo das extremidades"
+"- Zumbidos."
+"- Alteração do estado de consciência.\n"
+"O que deve fazer:\n"
+"- Acalmar a vítima e mantê-la acordada."
+"- Desapertar a roupa."
+"- Manter a vítima confortavelmente aquecida."
+"- Colocá-la em Posição Lateral de Segurança."
+"É ums situação grave que necessita de transporte urgente para o hospital.\n"
+"O que não deve fazer:\n"
+"- Dar de beber ou comer\n\n"
+        "Atenção: antes de qualquer procedimento o socorrista deve calçar luvas descartáveis."
+
+    </string>
+    <string name="Large_text8">
+        "2.Hemorragia Externa\n"
+        "O que fazer:\n"
+        "- Deitar horizontalmente a vítima."
+        "- Aplicar sobre a ferida uma compressa esterilizada ou, na sua falta, um pano lavado, exercendo uma pressão firme com uma ou as duas "
+        "mãos, com um dedo ou ainda com um ligadura limpa, conforme o local e a extensão do ferimento."
+        "- Se o penso ficar saturado de sangue, colocar outro por cima, mas sem retirar o primeiro."
+        "- Fazer durar a compressão até a hemorragia parar (pelo menos 10 minutos)."
+        "- Se a hemorragia parar, aplicar um penso compressivo sobre a ferida.\n\n"
+        "Atenção: antes de qualquer procedimento o socorrista deve calçar luvas descartáveis."
+
+
     </string>
 </resources>
